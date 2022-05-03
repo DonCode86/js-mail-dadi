@@ -7,7 +7,7 @@ for (let i = 0; i < enabledMails.length; i++) {
         enabler = 1;
     }
 }
-if (enabler) {
+if (enabler === 1) {
     console.log("Benvenuto!")
 }
 else {
