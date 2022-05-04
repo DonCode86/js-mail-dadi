@@ -11,6 +11,6 @@ if (enabler === 1) {
     console.log("Benvenuto!")
 }
 else {
-console.log("spiacente, l'email inserita non e' abilitata all'acceso.");
+console.log("spiacente, l'email inserita non e' abilitata all'accesso.");
 }
 
